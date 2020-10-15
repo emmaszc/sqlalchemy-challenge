@@ -2,7 +2,7 @@
 
 ## Analysis
 
-This project analyzes weather in Hawaii. The primary analysis, in 'climate_starter.ipynb', uses SQLAlchemy to connect to a sqlite database and perform a precipitation analysis.   
+This project analyzes weather in Hawaii. The primary analysis, in `climate_starter.ipynb`, uses SQLAlchemy to connect to a sqlite database and perform a precipitation analysis.   
 
 ## Flask App
 
